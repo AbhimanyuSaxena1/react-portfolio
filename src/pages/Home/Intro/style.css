@@ -132,6 +132,10 @@
     .intro_sec h3 {
         font-size: 0.73712rem;
     }
+
+    .myname {
+        white-space: wrap !important;
+    }
 }
 
 @media (max-width:346px) {
@@ -141,6 +145,10 @@
 
     .intro_sec h3 {
         font-size: 0.60704rem;
+    }
+
+    .myname {
+        white-space: wrap !important;
     }
 }
 

@@ -2,7 +2,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    
+
     margin: 0 auto;
     width: 100%;
     max-width: 1600px;
@@ -13,17 +13,20 @@
 @media (max-width: 1080px) {
     .mainComponent {
         padding: 0rem 100px;
+        overflow-x: hidden;
     }
 }
 
 @media (max-width: 767.5px) {
     .mainComponent {
         padding: 0rem 50px;
+        overflow-x: hidden;
     }
 }
 
 @media (max-width: 480px) {
     .mainComponent {
         padding: 0rem 10px;
+        overflow-x: hidden;
     }
 }
