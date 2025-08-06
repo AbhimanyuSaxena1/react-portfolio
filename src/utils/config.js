@@ -41,7 +41,7 @@ export const socialMediaDetails = [
 export const skills = [
     {
         name: "Languages",
-        items: ["C", "C++", "HTML/CSS", "Javascript", "Typescript"],
+        items: ["C", "C++", "HTML/CSS", "Javascript", "Typescript", "Python"],
     },
     {
         name: "Web Development",
