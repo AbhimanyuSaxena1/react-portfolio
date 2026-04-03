@@ -63,21 +63,51 @@ export const experiences = [
         company_name: "IndhanPay Pvt Ltd",
         bottomColor: "#6d92bf",
         icon: "https://indhanpay-public.s3.ap-south-1.amazonaws.com/common_file/indhan_logo.png",
-        date: "july 2025 - Present",
+        date: "June 2025 - November 2025",
         points: [
             "Developed and maintained the frontend of the IndhanPay website using React, Tailwind, and GSAP, ensuring a smooth and engaging user experience",
             "Collaborated with the backend team to integrate the frontend with the backend, ensuring a seamless user experience",
             "Implemented various features to enhance the user experience, such as a feedback system and a chatbot"
         ],
     },
-    {
-        title: "Gsap Developer",
-        company_name: "Freelance",
-        bottomColor: "#f1df87",
-        icon: "/company/gsap.png",
-        date: "july 2025 - Present",
+        {
+        title: "Web Developer",
+        company_name: "Vaayu Robotics Pvt Ltd",
+        bottomColor: "#6d92bf",
+        icon: "https://res.cloudinary.com/dtqccwgra/image/upload/v1775203604/360035657_2201755933548546_7757815494626569442_n-modified_kdhr5o.png",
+        date: "july 2025 - August 2025",
         points: [
-            "Created stunning looking animations for websites using GSAP and Framer Motion"
+            "Developed and maintained the company website using React.js and Tailwind CSS."  ,
+            "Collaborated with cross-functional teams to enhance user experience and functionality. ",
+                "Implemented responsive design principles to ensure accessibility across devices.  ",
+                "Contributed to a product-based company, VAAYU ROBOTICS, located in Bhopal, Madhya Pradesh"
+        ],
+    },
+
+    {
+        title: "Freelancing Web Developer",
+        company_name: "Self-Employed",
+        bottomColor: "#f1df87",
+        icon: "https://res.cloudinary.com/dtqccwgra/image/upload/v1775204048/freelancer-logo-vector-11573941316qg63taxq8q-modified_p8ikoq.png",
+        date: "August 2025 - Present",
+        points: [
+            "Collaborated with clients to understand project requirements and deliver tailored solutions",
+            "Conducted thorough testing to ensure website functionality across different browsers and devices.",
+            "Designed and developed responsive websites using HTML, CSS, React.js, Gsap and JavaScript.",
+            "Utilized version control systems for efficient code management and collaboration. Enhanced client satisfaction by delivering high-quality work within deadlines."
+        ],
+    },
+     {
+        title: "Gsap Developer",
+        company_name: "Techrobo (rebranded as PEGAL Agency) ",
+        bottomColor: "#f1df87",
+        icon: "https://res.cloudinary.com/dtqccwgra/image/upload/v1775203892/techrobo_logo-modified_c99v0j.png",
+        date: "july 2025 - Aug 2025",
+        points: [
+            "Created stunning looking animations for websites using GSAP and Framer Motion",
+            "Developed engaging web animations using GSAP, enhancing user experience on various projects.",
+            "Created responsive designs that improved site accessibility across devices, contributing to a 20% increase in user engagement.",
+            "Gained proficiency in GSAP and Framer Motion during a paid internship at Techrobo, a dynamic startup focused on innovative web solutions."
         ],
     },
    
